@@ -19,9 +19,14 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 - **IA para QA:** Implementação de agentes locais com Ollama para automação de tarefas.
 
 ---
-### 🏆 Certificações 2025
--  Certificação ISTQB CTFL
-
+### 🏆 Certificações e cursos 2025
+- Certificação ISTQB CTFL
+- [Cypress, do Zero à Nuvem](https://www.udemy.com/share/103Ay23@qvz5wmPfY-8I11Srf0g0ADuhb4V1kNBg75axho0AS0GN0f_46tcyrRrMW4G58cU6Cw==/)
+- [Testes automatizados com Cypress (intermediário)](https://www.udemy.com/share/103cnz3@Hny7fJPf3dziIBN3RMWDn88Y9_Axd_Eu3uWWb30s-vRno6D0vSTRixS8ZbfsZACZOQ==/)
+- [Testes automatizados com Cypress - Avançado](https://www.udemy.com/share/104UbK3@xV9bvyia0eK81KiFN4ulPwVZvLetMHDcXjufDZUEfn6BPrAAsrJktEBL4jiwmkBcFA==/)
+- [Dominando Postman (2025): Do Teste Manual a Performance APIs](https://www.udemy.com/share/10eGdn3@0EP4A0mRXPMJEbb0ZAiRo62Chw5sbFC1jf7t5RbF_O7LRyZjTa2fxsZGT5FOeGqWAA==/)
+- [JMeter - Testes de performance](https://www.udemy.com/share/102b3Y3@J6fFtRcp_D7f5MpDuVA9x8Osq6bE7b8L-yrc6rMBDw2h1TFnKP0ypIR8JzdDqjayAQ==/)
+- [Testes funcionais com Selenium WebDriver: Do básico ao GRID](https://www.udemy.com/share/101Lpw3@1qkQ7RezdXVcf0CTu4hM7a0HXwcG7xKnX4Lrw6A2XSKF5XRxnXaX0bA92oca-nUNwA==/)
 ---
 
 ### 🎯 Objetivos para 2026
