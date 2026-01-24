@@ -30,22 +30,17 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa√
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-           width="420"
+          media="(prefers-color-scheme: white)"
         />
-          &nbsp;&nbsp;&nbsp;
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-           width="420"
         />
         <img src="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true" />
-         width="420"
       </picture>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodic&layout=compact&theme=dark" />
-       width="420"
     </td>
   </tr>
 </table>
