@@ -24,7 +24,7 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 - 🌍 Fluência completa em Inglês para atuação internacional.
 
 ---
-
+</table>
   <tr>
     <td>
       <picture>
@@ -43,7 +43,7 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodic&layout=compact&theme=dark" />
     </td>
   </tr>
-
+</table>
 
 
 
