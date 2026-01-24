@@ -36,7 +36,7 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automaÃ
   <img src="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodic&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodic&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 
 ### ðŸ“« Como me encontrar
