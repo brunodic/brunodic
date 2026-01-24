@@ -24,7 +24,7 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 - 🌍 Fluência completa em Inglês para atuação internacional.
 
 ---
-</table>
+<table>
   <tr>
     <td>
       <picture>
@@ -44,7 +44,16 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
     </td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Stats -->
+    </td>
+    <td align="center" width="50%">
+      <!-- Top Langs -->
+    </td>
+  </tr>
+</table>
 
 
 
