@@ -18,14 +18,7 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
-
-
-
-
-  
----
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Automação Web/Mobile:** Selenium, Cypress, Playwright.
