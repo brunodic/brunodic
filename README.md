@@ -1,28 +1,26 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Bruno Di Carmine! 👋
 
 ### 🚀 QA Engineer | Analista de Sistemas em Formação
-Trabalho há mais de 3 anos garantindo a qualidade de software e atualmente estou focado em automação avançada e integração de IA em processos de QA.
+Trabalho garantindo a qualidade de software e atualmente estou focado em automação avançada e integração de IA em processos de QA.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Automação Web/Mobile:** Selenium, Cypress, Playwright, Robot Framework, Maestro.
+- **Automação Web/Mobile:** Selenium, Cypress, Playwright.
 - **Testes de Performance:** JMeter, K6.
 - **Linguagens/Stacks:** JavaScript, TypeScript, Python, Java.
 - **Banco de Dados:** MongoDB, PostgreSQL.
 - **IA para QA:** Implementação de agentes locais com Ollama para automação de tarefas.
 
 ---
-
-### 📈 Projetos em Destaque
-- **PDV com Agente de IA:** Sistema de PDV integrado com Ollama para execução de comandos via chat e automação de fluxos.
-- **Framework de Regressão:** Estrutura completa de automação utilizando [Sua ferramenta favorita].
+### 🎓 Objetivos para 2026-2028
+- 🏆 Certificações ISTQB (CTFL).
 
 ---
 
 ### 🎯 Objetivos para 2026-2028
 - 🎓 Concluir ADS (Análise e Desenvolvimento de Sistemas).
-- 🏆 Certificações ISTQB (CTFL, CTPT, CTAL-TAE, CT-AI).
+- 🏆 Certificações ISTQB (CTPT, CTAL-TAE, CT-AI).
 - 🌍 Fluência completa em Inglês para atuação internacional.
 
 ---
