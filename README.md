@@ -142,6 +142,12 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 
 </p>
 
+
+
+---
+
+
+
 ### 🛠️ Tecnologias e Ferramentas
 - **Automação Web/Mobile:** Selenium, Cypress, Playwright.
 - **Testes de Performance:** JMeter, K6.
