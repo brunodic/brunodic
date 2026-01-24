@@ -24,19 +24,27 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 - 🌍 Fluência completa em Inglês para atuação internacional.
 
 ---
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true" />
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true" />
+      </picture>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodic&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodics&layout=compact&theme=dark)
 
 
 
