@@ -19,8 +19,8 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 - **IA para QA:** Implementação de agentes locais com Ollama para automação de tarefas.
 
 ---
-### 🏆 Certificações
--  Certificações ISTQB CTFL
+### 🏆 Certificações 2025
+-  Certificação ISTQB CTFL
 
 ---
 
