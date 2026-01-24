@@ -28,7 +28,6 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 
 ---
 
-*“Qualidade não é um ato, é um hábito.”*
 
 ### 🤖 Linguagens e Tecnologias
 
