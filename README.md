@@ -28,12 +28,11 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa√
   <img
     src="https://github-readme-stats.vercel.app/api?username=brunodic&show_icons=true&theme=dark"
     width="420"
-    align="top"
   />
+  &nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodic&layout=compact&theme=dark"
     width="420"
-    align="top"
   />
 </div>
 
