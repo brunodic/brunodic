@@ -25,7 +25,6 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa√
 
 ---
 <table>
-  <tr>
     <td>
       <picture>
         <source
@@ -42,7 +41,6 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa√
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodic&layout=compact&theme=dark" />
     </td>
-  </tr>
 </table>
 
 
