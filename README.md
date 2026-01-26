@@ -31,7 +31,7 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 
 ### 🎯 Objetivos para 2026
 - 🎓 Concluir ADS (Análise e Desenvolvimento de Sistemas).
-- 🏆 Certificações ISTQB (CTFL, CTPT, CTAL-TAE, CT-AI).
+- 🏆 Certificações ISTQB (CTPT, CTAL-TAE, CT-AI).
 - 🌍 Fluência completa em Inglês para atuação internacional.
 
 ---
