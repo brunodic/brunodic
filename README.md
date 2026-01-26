@@ -6,8 +6,7 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 - Atualmente: Quality Assurance na Luby - Soluções de Desenvolvimento de Software
 - Estudando: Analise e Desenvolvimento de Sistemas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bruno-di-carmine-oliveira-289b0520a)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunodicarmineoliveira@gmail.com)
+
 
 ---
 
