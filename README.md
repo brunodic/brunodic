@@ -156,5 +156,3 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automaÃ
   />
 </p>
 <br clear="left">
-
-
