@@ -19,7 +19,7 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 
 ---
 ### 🏆 Certificações e cursos 2025
-- Certificação ISTQB CTFL
+- Certificações ISTQB (CTFL, CT-PT, CTAL-TAE, CT-AI).
 - [Cypress, do Zero à Nuvem](https://www.udemy.com/share/103Ay23@qvz5wmPfY-8I11Srf0g0ADuhb4V1kNBg75axho0AS0GN0f_46tcyrRrMW4G58cU6Cw==/)
 - [Testes automatizados com Cypress (intermediário)](https://www.udemy.com/share/103cnz3@Hny7fJPf3dziIBN3RMWDn88Y9_Axd_Eu3uWWb30s-vRno6D0vSTRixS8ZbfsZACZOQ==/)
 - [Testes automatizados com Cypress - Avançado](https://www.udemy.com/share/104UbK3@xV9bvyia0eK81KiFN4ulPwVZvLetMHDcXjufDZUEfn6BPrAAsrJktEBL4jiwmkBcFA==/)
@@ -30,7 +30,6 @@ Trabalho garantindo a qualidade de software e atualmente estou focado em automa�
 
 ### 🎯 Objetivos para 2026
 - 🎓 Concluir ADS (Análise e Desenvolvimento de Sistemas).
-- 🏆 Certificações ISTQB (CTPT, CTAL-TAE, CT-AI).
 - 🌍 Fluência completa em Inglês para atuação internacional.
 
 ---
